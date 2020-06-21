@@ -1,0 +1,8 @@
+{
+  "extends": ["codex"],
+  "globals": {
+    "fetch": true,
+    "ImageConfig": true,
+    "ImageToolData": true
+  }
+}
